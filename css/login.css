@@ -90,3 +90,8 @@ body {
   font-size: 14px;
 
 }
+
+.login-help a:hover {
+  color: #000;
+
+}
